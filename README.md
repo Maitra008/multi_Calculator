@@ -304,8 +304,9 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@maitra008](https://github.com/maitra008)
+- GitHub: [@Maitra008](https://github.com/Maitra008)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Portfolio: [Your Portfolio](https://yourwebsite.com)
 
 ## 🙏 Acknowledgments
 
