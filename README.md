@@ -311,8 +311,7 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 **Your Name**
 - GitHub: [@Maitra008](https://github.com/Maitra008)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio](https://yourwebsite.com)
+- LinkedIn: [Partha Maitra](www.linkedin.com/in/partha-maitra-963089348)
 
 ## 🙏 Acknowledgments
 
