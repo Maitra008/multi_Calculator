@@ -26,6 +26,12 @@
 
 This project is a comprehensive calculator application that combines three essential calculators into one intuitive interface. Developed as part of my web development learning journey, this project demonstrates proficiency in modern React development, responsive design, and practical financial calculations.
 
+## screenshots
+<img width="1920" height="1080" alt="Screenshot 2026-02-15 001424" src="https://github.com/user-attachments/assets/9e6da0be-b164-46f5-b670-b8035eeaab70" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-15 001638" src="https://github.com/user-attachments/assets/ef772a32-9ea6-4d57-9a6e-6171362de92e" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-15 001658" src="https://github.com/user-attachments/assets/2e51e8b9-0722-47fc-bc99-6d5cc83169c0" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-15 001819" src="https://github.com/user-attachments/assets/f6acd58e-1a58-49df-bcfb-da32e9f186ef" />
+
 ## Features
 
 ### 1. Basic Calculator
