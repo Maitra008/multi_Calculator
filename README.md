@@ -2,7 +2,7 @@
 
 > A modern, responsive web application featuring three powerful calculators - Basic Calculator, SIP Calculator, and Loan EMI Calculator. Built with React and Vite for optimal performance.
 
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://your-demo-link.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://calculator-sigma-two-21.vercel.app)
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.0.8-purple)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
