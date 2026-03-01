@@ -80,7 +80,7 @@ Calculate your loan EMI (Equated Monthly Installment) with:
 
 1. Clone the repository or navigate to the project directory:
 ```bash
-cd calculator
+cd multi_Calculator
 ```
 
 2. Install dependencies:
@@ -93,7 +93,7 @@ npm install
 npm run dev
 ```
 
-The application will open automatically in your default browser at `http://localhost:3000`
+The application will open automatically in your default browser at `http://localhost:5173`
 
 ### Build for Production
 
@@ -109,11 +109,37 @@ The optimized production build will be generated in the `dist` folder.
 npm run preview
 ```
 
+
+## ✅ Quality Improvements Added
+
+- Reusable and validated input component for SIP/Loan calculators
+- Shared financial calculation utilities with edge-case handling (including 0% interest/return)
+- Keyboard-accessible tabs (`ArrowLeft` / `ArrowRight`)
+- Unit tests using Node built-in test runner
+- CI workflow that runs tests and production build on every push/PR
+
+### New commands
+
+```bash
+npm run test
+npm run check
+```
+
 ## Deployment
 
 The app comes pre-configured for easy deployment to popular hosting platforms:
 
 ### Deploy to Vercel (Recommended)
+
+### Keep it Live (Recommended)
+
+1. Push this repository to GitHub.
+2. Import the repository into **Vercel** or **Netlify** (already configured).
+3. Enable automatic deploys from your `main` branch.
+4. Every push triggers a fresh production deployment.
+
+The project now includes CI checks in GitHub Actions, so broken builds are caught before deployment.
+
 
 1. **Via Vercel CLI:**
    ```bash
