@@ -234,3 +234,10 @@
     font-size: 28px;
   }
 }
+
+.error-text {
+  margin-top: 12px;
+  color: #b00020;
+  font-size: 0.9rem;
+  text-align: center;
+}
